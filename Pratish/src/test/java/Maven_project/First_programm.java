@@ -12,7 +12,7 @@ public class First_programm {
 	{
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver=new ChromeDriver();
-		driver.get("https://youtube.com");
+		driver.get("https://facebook.com");
 		
 	}
 
