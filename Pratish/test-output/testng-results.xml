@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-14T13:10:16 IST" name="Default suite" finished-at="2023-04-14T13:11:50 IST" duration-ms="93818">
+    <groups>
+    </groups>
+    <test started-at="2023-04-14T13:10:16 IST" name="Default test" finished-at="2023-04-14T13:11:50 IST" duration-ms="93818">
+      <class name="Maven_project.First_program">
+        <test-method signature="script()[pri:0, instance:Maven_project.First_program@56cdfb3b]" started-at="2023-04-14T13:10:17 IST" name="script" finished-at="2023-04-14T13:11:50 IST" duration-ms="93221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- script -->
+      </class> <!-- Maven_project.First_program -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
